@@ -1,7 +1,7 @@
 # Miguel Villarreal
 
-**Python · SQL · LLMs · .NET** · México
-**Mechatronics Engineer · Data Analyst** · MBA (Finance) & M.Sc. in IT Management · Data Science (MIT xPRO)
+**Mechatronics Engineer · Python · SQL · LLMs · .NET** · México
+**Data Analyst** · MBA (Finance) & M.Sc. in IT Management · Data Science (MIT xPRO)
 [LinkedIn: in/villarm3](https://www.linkedin.com/in/villarm3/)
 Portfolio técnico con impacto medible: [github.com/MVillarreal98/fde-portfolio](https://github.com/MVillarreal98/fde-portfolio)
 
