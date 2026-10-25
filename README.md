@@ -36,9 +36,7 @@ para esos tres dolores: 6 proyectos, ~380 tests, CI en cada uno.
   responsabilidad: los tests (~380 entre los cuatro de fde-portfolio: 171
   conciliación, 133 support desk, 38 xunit en .NET, 37 collections), las gates
   de CI, los CHANGELOGs y las decisiones técnicas documentadas de cada proyecto.
-- El siguiente proyecto de este perfil es una suite de automatización de
-  navegador en Playwright; cuando la publique puede esperar el mismo estándar
-  de tests, artefacts y CI.
+
 
 ## Cómo revisar este perfil
 
